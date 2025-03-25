@@ -9,7 +9,7 @@ from streamlit_option_menu import option_menu
 st.set_page_config(page_title='PhonePe Pulse', layout="wide")
 
 # Title
-st.markdown("<h1 style='text-align: center; color: green;'>₹PhonePe Pulse 2018-2022 Analysis</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: #7F00FF;'>₹PhonePe Pulse 2018-2024 Analysis</h1>", unsafe_allow_html=True)
 
 # Sidebar for Navigation
 menu = option_menu(None, ["Insurance", "Transaction"],
