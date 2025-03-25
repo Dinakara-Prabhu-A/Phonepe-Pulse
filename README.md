@@ -65,11 +65,9 @@ This interactive dashboard provides a comprehensive analysis of PhonePe transact
 
 ## Author
 
-[Your Name]
+Dinakara Prabhu A
 
-* LinkedIn: Your LinkedIn
-* GitHub: Your GitHub
+* LinkedIn: https://www.linkedin.com/in/dinakaraprabhu
+* GitHub: https://www.github.com/Dinakara-Prabhu-A/
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
