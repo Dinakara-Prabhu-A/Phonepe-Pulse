@@ -55,7 +55,7 @@ This interactive dashboard provides a comprehensive analysis of PhonePe transact
 
 ## Screenshot
 
-![PhonePe Pulse Dashboard]([notebook/localhost_8501_ (1).png](https://github.com/Dinakara-Prabhu-A/Phonepe-Pulse/blob/main/notebook/localhost_8501_%20(1).png))
+![PhonePe Pulse Dashboard](https://github.com/Dinakara-Prabhu-A/Phonepe-Pulse/blob/main/notebook/localhost_8501_%20(1).png)
 
 ## Future Enhancements
 
