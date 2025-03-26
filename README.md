@@ -28,8 +28,8 @@ This interactive dashboard provides a comprehensive analysis of PhonePe transact
 1.  Clone the repository:
 
     ```bash
-    git clone [https://github.com/your-repository/phonepe-pulse-dashboard.git](https://github.com/your-repository/phonepe-pulse-dashboard.git)
-    cd phonepe-pulse-dashboard
+    git clone [https://github.com/Dinakara-Prabhu-A/Phonepe-Pulse.git](https://github.com/Dinakara-Prabhu-A/Phonepe-Pulse.git)
+    cd phonepe-pulse
     ```
 
 2.  Install dependencies:
@@ -55,7 +55,7 @@ This interactive dashboard provides a comprehensive analysis of PhonePe transact
 
 ## Screenshot
 
-![PhonePe Pulse Dashboard](https://github.com/Dinakara-Prabhu-A/Phonepe-Pulse/blob/main/notebook/localhost_8501_%20(1).png)
+![PhonePe Pulse Dashboard](notebook/localhost_8501_ (1).png)
 
 ## Future Enhancements
 
@@ -65,9 +65,11 @@ This interactive dashboard provides a comprehensive analysis of PhonePe transact
 
 ## Author
 
-Dinakara Prabhu A
+[Your Name]
 
-* LinkedIn: https://www.linkedin.com/in/dinakaraprabhu
-* GitHub: https://www.github.com/Dinakara-Prabhu-A/
+* LinkedIn: (https://www.linkedin.com/in/dinakaraprabhu)
+* GitHub: (https://github.com/Dinakara-Prabhu-A/)
 
+## License
 
+This project is licensed under the MIT License - see the LICENSE file for details.
